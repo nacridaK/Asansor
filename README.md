@@ -1,2 +1,0 @@
-# Asansor
-C# Asansör Uygulaması
